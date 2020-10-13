@@ -1,5 +1,11 @@
 #!bin/bash
 
+#file color.sh
+# Displays color based on user input  
+# author zachary-schwab
+# Lab 6.1
+# date 10/12/2020
+
 red='\033[0;31m'
 green='\033[0;32m'
 yellow='\033[0;33m'
