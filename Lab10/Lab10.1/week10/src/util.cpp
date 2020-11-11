@@ -1,14 +1,17 @@
+//Zachary Schwab
 #include <cstdlib>
 #include <cstring>
 
 #include "util.h"
 
+//picks a random element from a string array
 string randomElement(vector<string> V)
 {
     int randomNum = rand() % V.size();
     return V[randomNum];
 }
 
+//sums all the doubles from a double vector
 double sum(vector<double> V)
 {
     double total;
@@ -18,12 +21,17 @@ double sum(vector<double> V)
     }
     return total;
 }
+
+//averages all the doubles from a double vector
 double avg(vector<double> V)
 {
     return  sum(V)/V.size();   
 }
+
+//returns the lowest double from a double vector
 double lowest(vector<double> V)
 {
+    //sets lowest as max so that no matter the double the first will be set as lowest.
     double lowest = __DBL_MAX__;
     for(int i = 0; i < V.size(); i++)
     {
@@ -35,6 +43,7 @@ double lowest(vector<double> V)
     return lowest;
 }
 
+//converts a multi word string to camel case format
 string camelCase(string& S)
 {
     int i = 0;
@@ -46,7 +55,7 @@ string camelCase(string& S)
         i++;
         char substr = S[i];
 
-        if(capitalize)
+        if(capitalize && substr != ' ')
         {
             S[i] = toupper(S[i]);
             capitalize = false;
@@ -56,7 +65,7 @@ string camelCase(string& S)
         {
             S[i] = tolower(S[i]);
         }
-        
+        //if a space make sure the next letter is capitalized
         if (substr == ' ')
         {
             capitalize = true;
