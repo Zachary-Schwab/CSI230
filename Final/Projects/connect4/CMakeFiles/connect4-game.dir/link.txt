@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/connect4-game.dir/includes/src/client.cpp.o CMakeFiles/connect4-game.dir/includes/src/connect4.cpp.o CMakeFiles/connect4-game.dir/includes/src/main.cpp.o  -o connect4-game  Final/sleepy_discord/libsleepy-discord.a lib/libcpr.a /usr/lib/x86_64-linux-gnu/libcurl.so -lssl -lcrypto -pthread 

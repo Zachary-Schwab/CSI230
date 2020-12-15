@@ -1,0 +1,14 @@
+# Target labels
+ websocketpp-download
+# Source files and their labels
+/home/zachary_schwab/CSI230/Final/Projects/connect4/websocketpp-download/CMakeFiles/websocketpp-download
+/home/zachary_schwab/CSI230/Final/Projects/connect4/websocketpp-download/CMakeFiles/websocketpp-download.rule
+/home/zachary_schwab/CSI230/Final/Projects/connect4/websocketpp-download/CMakeFiles/websocketpp-download-complete.rule
+/home/zachary_schwab/CSI230/Final/Projects/connect4/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-install.rule
+/home/zachary_schwab/CSI230/Final/Projects/connect4/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-mkdir.rule
+/home/zachary_schwab/CSI230/Final/Projects/connect4/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-download.rule
+/home/zachary_schwab/CSI230/Final/Projects/connect4/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-patch.rule
+/home/zachary_schwab/CSI230/Final/Projects/connect4/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-configure.rule
+/home/zachary_schwab/CSI230/Final/Projects/connect4/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-build.rule
+/home/zachary_schwab/CSI230/Final/Projects/connect4/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-test.rule
+/home/zachary_schwab/CSI230/Final/Projects/connect4/websocketpp-download/websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-skip-update.rule

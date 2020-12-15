@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+ab675389b3df563f0c50a659d6c81989 CMakeFiles/websocketpp-download
+c1ed46f0a580af1c1e71350fb8351ac9 CMakeFiles/websocketpp-download-complete
+298e26a0c03779e183dc2b96f40818bc websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-build
+b48ba274d03fe6b3f02f64fde6dce5ef websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-configure
+445fdc212d252c95490aaa8f9e3261be websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-download
+0fce2482f39985631eb50d33cae63074 websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-install
+5e79e998baf70edbea2a5cea75e4a6c4 websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-mkdir
+4cb09f3624d527d5704c33de13ba350c websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-patch
+3587007299cf337c60115fa71571156f websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-skip-update
+0d4eb5b4d00f3dbf5d7629ec21f324b4 websocketpp-download-prefix/src/websocketpp-download-stamp/websocketpp-download-test

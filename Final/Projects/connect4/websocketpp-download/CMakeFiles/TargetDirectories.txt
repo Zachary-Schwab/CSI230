@@ -1,0 +1,3 @@
+/home/zachary_schwab/CSI230/Final/Projects/connect4/websocketpp-download/CMakeFiles/rebuild_cache.dir
+/home/zachary_schwab/CSI230/Final/Projects/connect4/websocketpp-download/CMakeFiles/edit_cache.dir
+/home/zachary_schwab/CSI230/Final/Projects/connect4/websocketpp-download/CMakeFiles/websocketpp-download.dir

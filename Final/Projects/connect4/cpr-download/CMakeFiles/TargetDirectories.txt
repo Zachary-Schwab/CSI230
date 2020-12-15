@@ -1,0 +1,3 @@
+/home/zachary_schwab/CSI230/Final/Projects/connect4/cpr-download/CMakeFiles/rebuild_cache.dir
+/home/zachary_schwab/CSI230/Final/Projects/connect4/cpr-download/CMakeFiles/edit_cache.dir
+/home/zachary_schwab/CSI230/Final/Projects/connect4/cpr-download/CMakeFiles/cpr-download.dir

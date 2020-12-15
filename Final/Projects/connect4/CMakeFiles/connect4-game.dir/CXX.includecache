@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zachary_schwab/CSI230/Final/Projects/connect4/includes/headers/connect4.h
+constants.h
+/home/zachary_schwab/CSI230/Final/Projects/connect4/includes/headers/constants.h
+string
+-
+
+/home/zachary_schwab/CSI230/Final/Projects/connect4/includes/headers/constants.h
+
+/home/zachary_schwab/CSI230/Final/Projects/connect4/includes/src/connect4.cpp
+../headers/connect4.h
+/home/zachary_schwab/CSI230/Final/Projects/connect4/includes/headers/connect4.h
+../headers/constants.h
+/home/zachary_schwab/CSI230/Final/Projects/connect4/includes/headers/constants.h
+
