@@ -81,19 +81,19 @@ string Connect4::CheckForWin()
 	string returnVal = "";
 	if (VertCheckWin(row, col))
 	{
-		returnVal = "\n " + ColorTurn() + " won!! :star2: VERT";
+		returnVal = "\n " + ColorTurn() + " won!! :star2:";
 	}
 	if (HorizCheckWin(row))
 	{
-		returnVal = "\n " + ColorTurn() + " won!! :star2: HOR";
+		returnVal = "\n " + ColorTurn() + " won!! :star2:";
 	}
 	if (LtRDiagCheckWin(row, col))
 	{
-		returnVal = "\n " + ColorTurn() + " won!! :star2: LtR";
+		returnVal = "\n " + ColorTurn() + " won!! :star2:";
 	}
 	if(RtLDiagCheckWin(row, col))
 	{
-		returnVal = "\n " + ColorTurn() + " won!! :star2: RtL";
+		returnVal = "\n " + ColorTurn() + " won!! :star2:";
 	}
 	if(returnVal == "")
 		returnVal = TieCheck();

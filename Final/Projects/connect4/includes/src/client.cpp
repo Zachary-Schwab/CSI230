@@ -57,7 +57,7 @@ void MyClientClass::onMessage(SleepyDiscord::Message message)
 
 	if (message.startsWith("%turn"))
 		sendMessage(message.channelID,  game.ColorTurn());
-	if (message.startsWith("%forfiet"))
+	if (message.startsWith("%forfeit"))
 	{
 		if(message.author.username == game.activePlayer)
 		{
